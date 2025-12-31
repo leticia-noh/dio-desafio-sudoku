@@ -11,6 +11,6 @@ Foi desenvolvido um projeto Java que simula uma partida simples e interativa de 
 
 ## Passo a passo para executar ▶️
 1. Clone o repositório: `git clone https://github.com/leticia-noh/dio-desafio-sudoku.git`
-2. Entre na pasta src/com/br/dio: `cd src/com/br/dio`
+2. Entre no diretório dio-desafio-sudoku/src/com/br/dio: `cd dio-desafio-sudoku/src/com/br/dio`
 3. Para compilar, execute o comando `javac Main.java`
 4. Para executar: `java Main`
